@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Linq;
 
-namespace SmartBinAI
+namespace SmartBin
 {
     class Program
     {
